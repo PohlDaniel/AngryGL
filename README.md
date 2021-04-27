@@ -1,6 +1,6 @@
 # AngryGL
 
-This repository contains a slightly modified version of https://github.com/ntcaston/AngryGL containing also the assets from the Unity Project https://github.com/UnityTechnologies/AngryBots_ECS.
+This repository contains a slightly modified version of https://github.com/ntcaston/AngryGL or https://www.youtube.com/watch?v=tInaI3pU19Y containing also the assets from the Unity Project https://github.com/UnityTechnologies/AngryBots_ECS.
 
 It also contains the dependencies for compiling, listed below
 
