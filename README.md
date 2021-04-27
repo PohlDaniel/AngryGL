@@ -4,7 +4,7 @@ This repository contains a slightly modified version of https://github.com/ntcas
 
 It also contains the dependencies for compiling, listed below
 
-https://www.ambiera.at/downloads/irrKlang-64bit-1.6.0.zip
+https://www.ambiera.com/irrklang/index.html or https://www.ambiera.at/downloads/irrKlang-64bit-1.6.0.zip
 
 https://github.com/assimp/assimp/releases/tag/v4.1.0
 
